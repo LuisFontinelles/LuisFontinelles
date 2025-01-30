@@ -67,7 +67,7 @@
     <img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png" alt="UIKit" width="60" height="60"/> 
   </a> 
   <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"> 
-    <img src="https://developer.apple.com/assets/elements/icons/core-data/core-data-96x96_2x.png" alt="CoreData" width="60" height="60"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Database-mysql.svg" alt="CoreData" width="60" height="60"/> 
   </a> 
   <a href="https://developer.apple.com/documentation/realitykit" target="_blank" rel="noreferrer"> 
     <img src="https://developer.apple.com/assets/elements/icons/realitykit/realitykit-96x96_2x.png" alt="RealityKit" width="60" height="60"/> 
@@ -79,9 +79,10 @@
     <img src="https://developer.apple.com/assets/elements/icons/avfoundation/avfoundation-96x96_2x.png" alt="AVFoundation" width="60" height="60"/> 
   </a> 
   <a href="https://developer.apple.com/documentation/combine" target="_blank" rel="noreferrer"> 
-    <img src="https://developer.apple.com/assets/elements/icons/combine/combine-96x96_2x.png" alt="Combine" width="60" height="60"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/OOjs_UI_icon_module.svg" alt="Combine" width="60" height="60"/> 
   </a> 
 </p>
+
 
 ##
 
