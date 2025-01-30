@@ -54,6 +54,50 @@
   </a> 
 </p>
 
+### 📦 Frameworks, SDKs and Libraries:
+<p align="left"> 
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="60" height="60"/> 
+  </a> 
+  <a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png" alt="UIKit" width="60" height="60"/> 
+  </a> 
+  <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.apple.com/assets/elements/icons/core-data/core-data-96x96_2x.png" alt="CoreData" width="60" height="60"/> 
+  </a> 
+  <a href="https://developer.apple.com/documentation/realitykit" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.apple.com/assets/elements/icons/realitykit/realitykit-96x96_2x.png" alt="RealityKit" width="60" height="60"/> 
+  </a> 
+  <a href="https://developer.apple.com/documentation/avfoundation" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.apple.com/assets/elements/icons/avfoundation/avfoundation-96x96_2x.png" alt="AVFoundation" width="60" height="60"/> 
+  </a> 
+  <a href="https://developer.apple.com/documentation/combine" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.apple.com/assets/elements/icons/combine/combine-96x96_2x.png" alt="Combine" width="60" height="60"/> 
+  </a> 
+  <a href="https://developer.apple.com/documentation/cloudkit" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.apple.com/assets/elements/icons/cloudkit/cloudkit-96x96_2x.png" alt="CloudKit" width="60" height="60"/> 
+  </a> 
+  <a href="https://developer.apple.com/documentation/widgetkit" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.apple.com/assets/elements/icons/widgetkit/widgetkit-96x96_2x.png" alt="WidgetKit" width="60" height="60"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/> 
+  </a> 
+  <a href="https://fastlane.tools/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/6587558/28515038-46c17a5a-701a-11e7-8c1b-25cd8a06f43b.png" alt="Fastlane" width="60" height="60"/> 
+  </a> 
+  <a href="https://github.com/Alamofire/Alamofire" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/Alamofire/Alamofire/main/Resources/AlamofireLogo.png" alt="Alamofire" width="60" height="60"/> 
+  </a> 
+  <a href="https://developer.apple.com/documentation/storekit" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.apple.com/assets/elements/icons/storekit/storekit-96x96_2x.png" alt="StoreKit" width="60" height="60"/> 
+  </a> 
+  <a href="https://developer.apple.com/documentation/healthkit" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.apple.com/assets/elements/icons/healthkit/healthkit-96x96_2x.png" alt="HealthKit" width="60" height="60"/> 
+  </a> 
+</p>
+
+
 <div> 
   <a href = "mailto:luisffontinelles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luisfontinelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
