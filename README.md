@@ -59,32 +59,32 @@
 </p>
 
 ### 📦 Frameworks:
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;"> 
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> 
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; text-decoration: none;"> 
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="60" height="60"/> 
   </a> 
-  <a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png" alt="UIKit" width="40" height="40"/> 
   </a>  
-  <a href="https://developer.apple.com/documentation/realitykit" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.apple.com/documentation/realitykit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://developer.apple.com/assets/elements/icons/realitykit/realitykit-96x96_2x.png" alt="RealityKit" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.apple.com/documentation/arkit" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.apple.com/documentation/arkit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" alt="ARKit" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.apple.com/documentation/avfoundation" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.apple.com/documentation/avfoundation" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://developer.apple.com/assets/elements/icons/avfoundation/avfoundation-96x96_2x.png" alt="AVFoundation" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.apple.com/documentation/widgetkit" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.apple.com/documentation/widgetkit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://developer.apple.com/assets/elements/icons/widgetkit/widgetkit-96x96_2x.png" alt="WidgetKit" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.apple.com/documentation/storekit" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.apple.com/documentation/storekit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://developer.apple.com/assets/elements/icons/storekit/storekit-96x96_2x.png" alt="StoreKit" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.apple.com/documentation/healthkit" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.apple.com/documentation/healthkit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://developer.apple.com/assets/elements/icons/healthkit/healthkit-96x96_2x.png" alt="HealthKit" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.apple.com/documentation/cloudkit" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.apple.com/documentation/cloudkit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://developer.apple.com/assets/elements/icons/cloudkit/cloudkit-96x96_2x.png" alt="CloudKit" width="40" height="40"/> 
   </a> 
 </p>
