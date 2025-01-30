@@ -19,6 +19,9 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left"> 
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/> 
+  </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
@@ -49,23 +52,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a> 
 </p>
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-##
 
 <div> 
   <a href = "mailto:luisffontinelles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luisfontinelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luisfontinelles/details/projects/" target="_blank"><img src="https://img.shields.io/badge/-My%20Projects-%231877F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
