@@ -65,10 +65,7 @@
   </a> 
   <a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer"> 
     <img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png" alt="UIKit" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Database-mysql.svg" alt="CoreData" width="40" height="40"/> 
-  </a> 
+  </a>  
   <a href="https://developer.apple.com/documentation/realitykit" target="_blank" rel="noreferrer"> 
     <img src="https://developer.apple.com/assets/elements/icons/realitykit/realitykit-96x96_2x.png" alt="RealityKit" width="40" height="40"/> 
   </a> 
@@ -77,12 +74,6 @@
   </a> 
   <a href="https://developer.apple.com/documentation/avfoundation" target="_blank" rel="noreferrer"> 
     <img src="https://developer.apple.com/assets/elements/icons/avfoundation/avfoundation-96x96_2x.png" alt="AVFoundation" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/documentation/combine" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/OOjs_UI_icon_module.svg" alt="Combine" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/documentation/webkit" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Webkit_logo.svg" alt="WebKit" width="40" height="40"/> 
   </a> 
   <a href="https://developer.apple.com/documentation/widgetkit" target="_blank" rel="noreferrer"> 
     <img src="https://developer.apple.com/assets/elements/icons/widgetkit/widgetkit-96x96_2x.png" alt="WidgetKit" width="40" height="40"/> 
@@ -93,18 +84,11 @@
   <a href="https://developer.apple.com/documentation/healthkit" target="_blank" rel="noreferrer"> 
     <img src="https://developer.apple.com/assets/elements/icons/healthkit/healthkit-96x96_2x.png" alt="HealthKit" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.apple.com/documentation/swiftdata" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Database-mysql.svg" alt="SwiftData" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/documentation/eventkit" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Calendar_font_awesome.svg" alt="EventKit" width="40" height="40"/> 
-  </a> 
   <a href="https://developer.apple.com/documentation/cloudkit" target="_blank" rel="noreferrer"> 
     <img src="https://developer.apple.com/assets/elements/icons/cloudkit/cloudkit-96x96_2x.png" alt="CloudKit" width="40" height="40"/> 
   </a> 
 </p>
 
-faça que o primeiro icone de languages, tools e frameworks seja 60px e o restante seja 40px, adicione também uma label embaixo de cada ícone com o nome do icone<div> 
   <a href = "mailto:luisffontinelles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luisfontinelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luisfontinelles/details/projects/" target="_blank"><img src="https://img.shields.io/badge/-My%20Projects-%231877F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
