@@ -59,7 +59,7 @@
 </p>
 
 ### 📦 Frameworks:
-<p align="left"> 
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;"> 
   <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> 
     <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="60" height="60"/> 
   </a> 
@@ -88,6 +88,8 @@
     <img src="https://developer.apple.com/assets/elements/icons/cloudkit/cloudkit-96x96_2x.png" alt="CloudKit" width="40" height="40"/> 
   </a> 
 </p>
+
+##
 
   <a href = "mailto:luisffontinelles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luisfontinelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
