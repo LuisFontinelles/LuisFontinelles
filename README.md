@@ -23,7 +23,10 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/d1305987-65fd-4e82-b66e-61b9b905d90d/embedded" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png" alt="Swift Developer Certification" width="60" height="60"/>
+    <img src="https://images.credly.com/size/680x680/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png" alt="Swift Developer Certification" width="60" height="60" style="object-fit: cover; border-radius: 8px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luisfontinelles/details/certifications/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4E2DAQFpEbK9h39bhw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1737071558119?e=1740106800&v=beta&t=0V0JfErXJ2EE5SKE0FHYSTpR3LWaj2mQCtkNZvPIr3c" alt="LinkedIn Certification" width="60" height="60" style="object-fit: cover; border-radius: 8px;"/>
   </a>
 </p>
 
