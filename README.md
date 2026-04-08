@@ -1,12 +1,12 @@
-### Hi there, my name is Luis Fontinelles and I'm an iOS Developer. 👋
+### Hi there, my name is Luis Fontinelles and I'm an iOS Software Engineer. 👋
 
-- 📱 I am currently an Apple Developer Academy trainee at Brasília, where I have been developing apps from ideation to App Store release (2 years).
-- 📱 I worked as a freelance iOS Developer at MSOLS Soluções Sustentáveis, where I developed an AR-based furniture catalog application.
-- 🚀 I have **7 published applications** on the App Store, covering iOS, watchOS, macOS, and Safari extensions.
-- 🎓 I'm pursuing a Bachelor's degree in **Software Engineering** at Catholic University of Brasília (Expected Dec 2025).
-- 🍎 My experience includes **Swift, SwiftUI, UIKit, MVVM-C, CoreData, CloudKit, RealityKit and other Apple technologies**.
-- 🎤 I'm the **Chapter Leader of CocoaHeads Brasília**, helping to grow and strengthen the iOS developer community in the region.
-- 🤩 Passionate about technology, Apple's ecosystem, and community-driven knowledge sharing.
+- 💻 I am currently an iOS Software Engineer at **KaBuM!**, focusing on app architecture (MVVM-C, ViewCode), performance optimization, and multiplatform integration (KMP).
+- 🏆 **Global Winner** of the **Apple Swift Student Challenge 2026**.
+- 📱 Creator of **[iHorizon Lock](https://apps.apple.com/nz/app/ihorizonlock-camera/id6759947754)** (1.3k+ organic downloads, 4.7⭐) and 7 other applications across iOS, watchOS, macOS, and visionOS.
+- 🤝 **Chapter Leader of CocoaHeads Brasília**, helping to grow and strengthen the largest iOS developer community in the region.
+- 💼 Previously: iOS CarPlay Developer at **Volkswagen** (Opah IT), AR Developer at **Msols**, and **Apple Developer Academy** Alumni.
+- 🎓 Pursuing a Bachelor's degree in **Software Engineering** at Catholic University of Brasília (Expected Dec 2026).
+- 🍎 My core stack includes **Swift, SwiftUI, UIKit, MVVM-C, KMP, CI/CD (Fastlane), RealityKit and other Apple technologies**.
 - 😄 Pronouns: he/his.
 
 ##
@@ -19,7 +19,7 @@
 
 ## 
 
-## 🎓 Certifications
+## 🎓 Certifications & Awards
 
 <p align="left">
   <a href="https://www.credly.com/badges/d1305987-65fd-4e82-b66e-61b9b905d90d/embedded" target="_blank">
@@ -37,6 +37,9 @@
   </a> 
   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="Objective-C" width="40" height="40"/> 
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
@@ -57,6 +60,9 @@
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
     <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" alt="Xcode" width="60" height="60"/> 
   </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> 
+  </a>
   <a href="https://figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a> 
@@ -71,7 +77,7 @@
   </a> 
 </p>
 
-### 📦 Frameworks:
+### 📦 Frameworks & Ecosystem:
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; text-decoration: none;"> 
   <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="60" height="60"/> 
@@ -104,7 +110,8 @@
 
 ##
 
-  <a href = "mailto:luisffontinelles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+  <a href="mailto:luisffontinelles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luisfontinelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luisfontinelles/details/projects/" target="_blank"><img src="https://img.shields.io/badge/-My%20Projects-%231877F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
