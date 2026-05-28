@@ -1,117 +1,47 @@
-### Hi there, my name is Luis Fontinelles and I'm an iOS Software Engineer. 👋
+# Hi, I'm Luis Fontinelles 👋
+**Senior iOS Software Engineer & Tech Lead**
 
-- 💻 I am currently an iOS Software Engineer at **KaBuM!**, focusing on app architecture (MVVM-C, ViewCode), performance optimization, and multiplatform integration (KMP).
-- 🏆 **Global Winner** of the **Apple Swift Student Challenge 2026**.
-- 📱 Creator of **[iHorizon Lock](https://apps.apple.com/nz/app/ihorizonlock-camera/id6759947754)** (1.3k+ organic downloads, 4.7⭐) and 7 other applications across iOS, watchOS, macOS, and visionOS.
-- 🤝 **Chapter Leader of CocoaHeads Brasília**, helping to grow and strengthen the largest iOS developer community in the region.
-- 💼 Previously: iOS CarPlay Developer at **Volkswagen** (Opah IT), AR Developer at **Msols**, and **Apple Developer Academy** Alumni.
-- 🎓 Pursuing a Bachelor's degree in **Software Engineering** at Catholic University of Brasília (Expected Dec 2026).
-- 🍎 My core stack includes **Swift, SwiftUI, UIKit, MVVM-C, KMP, CI/CD (Fastlane), RealityKit and other Apple technologies**.
-- 😄 Pronouns: he/his.
+I am a Mobile Software Engineer based in Brasília, Brazil, specializing in the Apple ecosystem and cross-platform architecture. With a strong focus on high-performance mobile applications, I build scalable solutions ranging from large-scale e-commerce platforms to cutting-edge cryptocurrency wallets and automotive integrations. 
 
-##
+I am a **Global Winner of the 2026 Apple Swift Student Challenge** and deeply passionate about creating robust architectures (MVVM-C, ViewCode), exploring cross-platform limits with Kotlin Multiplatform (KMP), and building real-time camera/AR tools using AVFoundation and RealityKit.
 
-<div align="center">
-  <a href="https://github.com/LuisFontinelles">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuisFontinelles&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFontinelles&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Beyond the code, I am the Chapter Leader for **[CocoaHeads Brasília](https://www.instagram.com/cocoaheadsbrasilia)**, where I organize events and foster the largest community of iOS developers in our region. 
 
-## 
+You can check out my deep-dive articles, case studies, and full project history on my portfolio: **[Fontinelles.com](https://www.fontinelles.com)**.
 
-## 🎓 Certifications & Awards
+---
 
-<p align="left">
-  <a href="https://www.credly.com/badges/d1305987-65fd-4e82-b66e-61b9b905d90d/embedded" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png" alt="Swift Developer Certification" width="60" height="60" style="object-fit: cover; border-radius: 8px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luisfontinelles/details/certifications/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4E2DAQFpEbK9h39bhw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1737071558119?e=1751083200&v=beta&t=B0NxhK3cLiHod8sMkVkO5HJiw7rX_Hze-QCnETjg6W4" alt="LinkedIn Certification" height="60" style="object-fit: cover; border-radius: 8px;"/>
-  </a>
-</p>
+### 💼 Professional Journey
 
-### 🖥️ Languages:
-<p align="left"> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="60" height="60"/> 
-  </a> 
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="Objective-C" width="40" height="40"/> 
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-</p>
+*   **KaBuM!** — iOS Software Engineer focused on app architecture, memory optimization, and eliminating performance bottlenecks for Brazil's largest tech e-commerce.
+*   **Kotai Wallet** — Senior iOS Engineer building robust cryptocurrency wallet solutions integrating Kotlin Multiplatform (KMP) and declarative SwiftUI.
+*   **Volkswagen (Bipa AI)** — Senior iOS Engineer engineering custom navigation systems and native Apple CarPlay integrations with real-time telemetry.
+*   **Independent Consultant** — Acting as Principal iOS Engineer & Tech Lead for startups, including building 3D Mixed Reality catalogs (Msols) and BLE-integrated fitness tracking architectures (Predator).
+*   **Apple Developer Academy** — iOS Developer & Technical Onboarding Lead, mastering the Apple ecosystem and Human Interface Guidelines.
 
-### 🛠️ Tools:
-<p align="left"> 
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
-    <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" alt="Xcode" width="60" height="60"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> 
-  </a> 
-</p>
+---
 
-### 📦 Frameworks & Ecosystem:
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; text-decoration: none;"> 
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="60" height="60"/> 
-  </a> 
-  <a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png" alt="UIKit" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.apple.com/documentation/realitykit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://developer.apple.com/assets/elements/icons/realitykit/realitykit-96x96_2x.png" alt="RealityKit" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/documentation/arkit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" alt="ARKit" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/documentation/avfoundation" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://developer.apple.com/assets/elements/icons/avfoundation/avfoundation-96x96_2x.png" alt="AVFoundation" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/documentation/widgetkit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://developer.apple.com/assets/elements/icons/widgetkit/widgetkit-96x96_2x.png" alt="WidgetKit" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/documentation/storekit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://developer.apple.com/assets/elements/icons/storekit/storekit-96x96_2x.png" alt="StoreKit" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/documentation/healthkit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://developer.apple.com/assets/elements/icons/healthkit/healthkit-96x96_2x.png" alt="HealthKit" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/documentation/cloudkit" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://developer.apple.com/assets/elements/icons/cloudkit/cloudkit-96x96_2x.png" alt="CloudKit" width="40" height="40"/> 
-  </a> 
-</p>
+### 🛠️ Core Stack & Technologies
 
-##
+*   **Languages:** Swift (5+ & 6), Objective-C, Kotlin
+*   **Frameworks:** SwiftUI, UIKit, AVFoundation, CoreImage, RealityKit, ARKit
+*   **Architecture:** MVVM-C, ViewCode, State Design Pattern, TDD
+*   **Ecosystem:** Kotlin Multiplatform (KMP), Compose Multiplatform, CI/CD (Fastlane), SPM
 
-<div align="center">
-  <a href="mailto:luisffontinelles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luisfontinelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/luisfontinelles/details/projects/" target="_blank"><img src="https://img.shields.io/badge/-My%20Projects-%231877F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+---
+
+### 🏆 Milestones & Highlights
+
+*   🍎 **Apple Swift Student Challenge 2026:** Global Winner.
+*   📱 **[iHorizon Lock](https://apps.apple.com/nz/app/ihorizonlock-camera/id6759947754):** Creator of an independent iOS/watchOS camera application featuring advanced AVFoundation implementations (1.3k+ organic downloads).
+*   🎓 **Education:** Pursuing a Bachelor's Degree in Software Engineering at UCB (Expected 2026).
+*   🤝 **Community:** Chapter Leader at [CocoaHeads Brasília](https://www.instagram.com/cocoaheadsbrasilia).
+
+---
+
+### 📫 Let's Connect
+
+*   **Portfolio:** [Fontinelles.com](https://www.fontinelles.com)
+*   **LinkedIn:** [in/luisfontinelles](https://www.linkedin.com/in/luisfontinelles)
+*   **Email:** luisffontinelles@gmail.com
+*   **Community:** [@cocoaheadsbrasilia](https://www.instagram.com/cocoaheadsbrasilia)
