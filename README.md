@@ -13,9 +13,9 @@ You can check out my deep-dive articles, case studies, and full project history 
 
 ### 🏆 Achievements & Certifications
 
-*   🍎 **Global Winner — Apple Swift Student Challenge (2026):** Recognized globally by Apple for outstanding app development and technical innovation.
+*   🍎 **Global Winner — Apple Swift Student Challenge:** Recognized globally by Apple for outstanding app development and technical innovation.
 *   📜 **Apple Certified — App Development with Swift:** Officially certified by Apple, validating advanced proficiency in the Swift language and iOS ecosystem.
-*   🚀 **Indie Developer Success — iHorizon Lock:** Creator of a custom iOS/watchOS camera application featuring advanced AVFoundation and CoreImage implementations, achieving 1.3k+ organic downloads and a 4.7⭐ rating on the App Store.
+*   🚀 **Indie Developer Success — iHorizon Lock:** Creator of a custom iOS/watchOS camera application featuring advanced AVFoundation and CoreImage implementations, achieving 7k+ organic downloads and a 4.7⭐ rating on the App Store.
 *   🤝 **Community Leadership — CocoaHeads Brasília:** Actively managing and expanding the largest iOS developer community in the center-west of Brazil.
 
 ---
